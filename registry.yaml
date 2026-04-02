@@ -1,4 +1,15 @@
 # yaml-language-server: $schema=./.github/registry_schema.json
+- title: How AI Agents Are Replacing the Slowest Part of Paid Media
+  path: third_party/adspirer_campaign_launch.ipynb
+  description: Create a complete multi-platform ad campaign (Google Search + Meta Ads with 8 creative variants) in a single Claude conversation using the Adspirer MCP server.
+  authors:
+    - name: Abhi Mekala
+      github: amekala
+  date: 2026-04-02
+  categories:
+    - tool_use
+    - third_party
+
 - title: Knowledge graph construction with Claude
   description: Build knowledge graphs from unstructured text using Claude for entity
     extraction, relation mining, deduplication, and multi-hop graph querying.
